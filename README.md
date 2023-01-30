@@ -35,7 +35,7 @@
 <h1>швейцария</h1>
 <tr><td style="border:1pxsolid red;">картофельное пюре с луком и сосисками</td><td style="border:1pxsolid red> <td style="border:1pxsolid red;">пицца</td><td style="border:1pxsolid red";>рагу из телятины и грибов в цюрихе 
   <tr><td style="border:1pxsolid red;">раклет</td><td style="border:1pxsolid red;"><td style="border:1pxsolid red> <td style="border:1pxsolid red;">полента с тушеной говядиной
-<h1> где проходить турнир?</h1>
+<h1><p> где проходить турнир?</h1></p>
 </table>
  <table>
      <tr>прохождение турнира:</tr>
