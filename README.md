@@ -50,7 +50,7 @@
     <p>  страна:Россия</p>
     <p>  город:Санкт-Петербург</p>
     <p>  место:Майнкрафтленд</p>
-<a href="zombie" style="color:lightbrown; font-size:20px;">награда</h2>
+<a href="zombie" style="color:etllowi; font-size:20px;">турнир</h2>
 <a>  <a href="https://translated.turbopages.org/proxy_u/en-ru.ru.2270da58-639ace4e-0250a699-74722d776562/https/mcchampionship.fandom.com/wiki/MC_Championship"подробнее о турнирах</a>-ссылка
 <style="background-colour:red">
 </footer>
